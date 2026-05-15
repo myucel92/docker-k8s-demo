@@ -12,3 +12,4 @@ A simple Cloud Native demo project using Docker, Kubernetes, and kind.
 - Dockerized application
 - Kubernetes deployment
 - Local cluster deployment
+- GitHub Actions CI pipeline
